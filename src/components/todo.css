@@ -1,0 +1,8 @@
+.app {
+  height: 100vh;
+}
+
+.todo-div {
+  width: 250px;
+  background-color: #efefef;
+}
